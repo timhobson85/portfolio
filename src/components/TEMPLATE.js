@@ -4,7 +4,7 @@ class TEMPLATE extends React.Component {
 
   render(){
     return(
-      <div className='App'>
+      <div className='TEMPLATE'>
         <h2>TEMPLATE</h2>
       </div>
     )

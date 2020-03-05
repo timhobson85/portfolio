@@ -1,0 +1,16 @@
+#projectList {
+  display:flex;
+  flex-direction: column;
+  text-align: right;
+  position: absolute;
+  right: 0;
+  font-size: 2rem;
+}
+
+.projectInfo {
+  width: 60vw;
+}
+
+.projectInfo img {
+  width: 100%;
+}

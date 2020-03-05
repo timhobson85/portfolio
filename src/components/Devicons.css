@@ -1,0 +1,8 @@
+.devIcons {
+  height: 50vh;
+  width: 50vw;
+}
+
+.devIcons svg {
+  width: 25%;
+}

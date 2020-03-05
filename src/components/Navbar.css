@@ -1,0 +1,11 @@
+.Navbar {
+  height: 5vh;
+  width: 100vw;
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  border: 1px solid red;
+}

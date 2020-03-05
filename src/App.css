@@ -7,10 +7,28 @@
   flex-direction: column;
 }
 
+
+#horizontal {
+  width: 100vw;
+  position: absolute;
+  border: 0.5px solid fuchsia;
+}
+
+#vertical {
+  height: 100vh;
+  position: absolute;
+  border: 0.5px solid fuchsia;
+}
+
+
 #nameHeader {
   margin: 0;
   border: 0;
   font-size: 4rem;
+}
+
+a {
+  color: white;
 }
 
 .text-appear {
