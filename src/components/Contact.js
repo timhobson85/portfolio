@@ -1,4 +1,5 @@
 import React from 'react'
+import './Contact.css'
 
 class Contact extends React.Component {
 
@@ -6,7 +7,7 @@ class Contact extends React.Component {
     return(
       <div className='App'>
         <h2>Contact</h2>
-        <ul>
+        <ul id="contactInfo"> 
           <li>linkedin</li>
           <li>email</li>
           <li>github</li>

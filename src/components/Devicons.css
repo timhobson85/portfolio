@@ -1,8 +1,14 @@
 .devIcons {
-  height: 50vh;
-  width: 50vw;
+  width: 60vw;
 }
 
 .devIcons svg {
-  width: 25%;
+  width: 5%;
+}
+
+.devIconsWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }

@@ -9,15 +9,15 @@
 
 
 #horizontal {
-  width: 100vw;
-  position: absolute;
-  border: 0.5px solid fuchsia;
+  /* width: 100vw; */
+  /* position: absolute; */
+  /* border: 0.5px solid fuchsia; */
 }
 
 #vertical {
-  height: 100vh;
-  position: absolute;
-  border: 0.5px solid fuchsia;
+  /* height: 100vh; */
+  /* position: absolute; */
+  /* border: 0.5px solid fuchsia; */
 }
 
 
