@@ -14,3 +14,17 @@
 .projectInfo img {
   width: 100%;
 }
+
+
+@media screen and (max-width: 500px) {
+  #projectList {
+    flex-direction: column;
+    /* transform:translateY(150%); */
+    bottom: 0;
+  }
+}
+@media screen and (min-width: 500px) {
+  #projectList {
+    font-size: 3vw;
+  }
+}

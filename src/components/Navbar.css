@@ -17,3 +17,11 @@
 .navbarButtons, a {
   text-decoration: none;
 }
+
+@media screen and (max-width: 500px) {
+  .Navbar {
+    flex-direction: column;
+    /* transform:translateY(150%); */
+    display: block;
+  }
+}
