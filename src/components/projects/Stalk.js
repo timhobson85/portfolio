@@ -1,8 +1,8 @@
 import React from 'react'
-import image from '../images/project2.png'
+import image from '../../images/project2.png'
 
 
-class Project2 extends React.Component {
+class Stalk extends React.Component {
 
   render(){
     return(
@@ -17,4 +17,4 @@ Created with React/Rails/HTML/CSS/JS</p>
 
 } // Class
 
-export default Project2
+export default Stalk

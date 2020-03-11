@@ -1,7 +1,7 @@
 import React from 'react'
-import image from '../images/project0.png'
+import image from '../../images/project0.png'
 
-class Project0 extends React.Component {
+class TicTacToe extends React.Component {
 
   render(){
     return(
@@ -18,4 +18,4 @@ class Project0 extends React.Component {
 
 } // Class
 
-export default Project0
+export default TicTacToe

@@ -1,8 +1,8 @@
 import React from 'react'
-import image from '../images/project3.png'
+import image from '../../images/project3.png'
 
 
-class Project3 extends React.Component {
+class Pixels extends React.Component {
 
   render(){
     return(
@@ -18,4 +18,4 @@ Created with React/Firebase/HTML/CSS/JS</p>
 
 } // Class
 
-export default Project3
+export default Pixels

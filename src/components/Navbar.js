@@ -12,12 +12,13 @@ class Navbar extends React.Component {
         <Link to="/about">
           <div class="navbarButtons" id="aboutButton">about</div>
         </Link>
-        <Link to="/projects">
+        <Link to="/projects/pixels">
           <div class="navbarButtons" id="projectsButton">projects</div>
         </Link>
         <Link to="/contact">
           <div class="navbarButtons" id="contactButton">contact</div>
         </Link>
+          <div class="navbarButtons" id="resumeButton">resume</div>
       </div>
     )
   }

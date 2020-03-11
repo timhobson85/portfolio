@@ -9,3 +9,11 @@
 
   /* border: 1px solid red; */
 }
+
+.navbarButtons {
+  font-size: 2rem;
+}
+
+.navbarButtons, a {
+  text-decoration: none;
+}

@@ -7,11 +7,11 @@ class Contact extends React.Component {
     return(
       <div className='App'>
         <h2>Contact</h2>
-        <ul id="contactInfo"> 
-          <li>linkedin</li>
-          <li>email</li>
-          <li>github</li>
-          <li>phone</li>
+        <ul id="contactInfo">
+          <li><a href="https://www.linkedin.com/in/thobson/">linkedin</a></li>
+          <li><a href="mailto: claehobson@gmail.com">email</a></li>
+          <li><a href="https://github.com/timhobson85">github</a></li>
+          <li>0413 130 124</li>
         </ul>
       </div>
     )

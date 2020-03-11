@@ -1,8 +1,8 @@
 import React from 'react'
-import image from '../images/project1.png'
+import image from '../../images/project1.png'
 
 
-class Project1 extends React.Component {
+class PayItForward extends React.Component {
 
   render(){
     return(
@@ -17,4 +17,4 @@ Created with Ruby/Rails/HTML/CSS</p>
 
 } // Class
 
-export default Project1
+export default PayItForward
