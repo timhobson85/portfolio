@@ -9,6 +9,8 @@
 
 .projectInfo {
   width: 60vw;
+  max-height: 80vh;
+  overflow-y: scroll;
 }
 
 .projectInfo img {
@@ -21,6 +23,15 @@
     flex-direction: column;
     /* transform:translateY(150%); */
     bottom: 0;
+  }
+  .projectInfo {
+    width: 80vw;
+  }
+  .projectInfo, p {
+    font-size: 1.1rem;
+  }
+  .projectInfo, h2 {
+    font-size: 3rem;
   }
 }
 @media screen and (min-width: 500px) {

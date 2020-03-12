@@ -18,4 +18,8 @@
   .devIcons svg {
     width: 15%;
   }
+  .devIconsWrapper {
+    position: absolute;
+    width: 90vw;
+  }
 }

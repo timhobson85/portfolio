@@ -1,5 +1,7 @@
 .About {
   width: 60vw;
+  max-height: 80vh;
+  overflow-y:scroll;
 }
 
 .About, p {
@@ -12,6 +14,6 @@
     font-size: 0.9rem;
   }
   .About {
-    width: 80vw;
+    width: 90vw;
   }
 }
