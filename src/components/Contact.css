@@ -3,3 +3,11 @@
   padding: 0;
   margin: 0;
 }
+
+#contactHeader {
+  font-size: 2rem;
+}
+
+#contactInfo, li {
+  font-size: 2rem;
+}

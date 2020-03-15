@@ -18,7 +18,9 @@ class Navbar extends React.Component {
         <Link to="/contact">
           <div class="navbarButtons" id="contactButton">contact</div>
         </Link>
+        <a href="/Tim-Hobson-Resume.pdf" download>
           <div class="navbarButtons" id="resumeButton">resume</div>
+        </a>
       </div>
     )
   }

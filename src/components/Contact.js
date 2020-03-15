@@ -6,7 +6,7 @@ class Contact extends React.Component {
   render(){
     return(
       <div className='App'>
-        <h2>Contact</h2>
+        <h2 id="contactHeader">Contact</h2>
         <ul id="contactInfo">
           <li><a href="https://www.linkedin.com/in/thobson/">linkedin</a></li>
           <li><a href="mailto: claehobson@gmail.com">email</a></li>
