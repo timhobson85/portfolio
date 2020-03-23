@@ -12,6 +12,7 @@ class PayItForward extends React.Component {
           <img src={image} alt=""/>
         </a>
         <p>Inspired by the 2019/2020 bushfire season, I was inspired to create a site as a way for people to pay it forward to donate time or goods, or request them when in need.
+        <br/>
 Created with Ruby/Rails/HTML/CSS</p>
       </div>
     )

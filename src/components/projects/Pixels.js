@@ -13,6 +13,7 @@ class Pixels extends React.Component {
           </a>
         <p>
 Collaborative drawing app working via firebase. You can take a photo via the webcam to be pixelated a drawn on by everyone. Ability to chat with other users and save the picture to the gallery
+<br/>
 Created with React/Firebase/HTML/CSS/JS</p>
       </div>
     )

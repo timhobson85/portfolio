@@ -13,6 +13,7 @@ class TicTacToe extends React.Component {
           </a>
         </div>
         <p>Creating my own version of TicTactToe after 2 weeks of class, I had a big focus on the aesthetics for my site.
+          <br/>
         Created with HTML/CSS/JS</p>
       </div>
     )

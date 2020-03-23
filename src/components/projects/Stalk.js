@@ -12,6 +12,7 @@ class Stalk extends React.Component {
             <img src={image} alt=""/>
           </a>
         <p>Group Project to create a site where you can keep a schedule for watering indoor plants. It also allows you view other user's plants and also keep updates and photos of your plants progress.
+          <br/>
 Created with React/Rails/HTML/CSS/JS</p>
       </div>
     )
